@@ -1,4 +1,6 @@
-### Hi there 👋
+### DIEGO ALEJANDRO CUMBE 
+## SOFTWARE ENGINNER
+## BACKEND DEVELOPER
 
 <!--
 **diegocumbe1/diegocumbe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![emoji](https://user-images.githubusercontent.com/22597429/160909459-3be1c156-1166-424c-9534-3a1363060547.jpeg)
