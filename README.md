@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![emoji](https://user-images.githubusercontent.com/22597429/160909459-3be1c156-1166-424c-9534-3a1363060547.jpeg)
+
+https://user-images.githubusercontent.com/22597429/160909907-0f903c4f-9786-4d8f-8865-77fede3498a2.mp4
+
