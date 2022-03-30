@@ -1,6 +1,5 @@
-### DIEGO ALEJANDRO CUMBE 
-## SOFTWARE ENGINNER
-## BACKEND DEVELOPER
+### DIEGO ALEJANDRO CUMBE |  SOFTWARE ENGINNER | BACKEND DEVELOPER
+
 
 <!--
 **diegocumbe1/diegocumbe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
