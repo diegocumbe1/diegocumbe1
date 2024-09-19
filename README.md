@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DIEGO ALEJANDRO CUMBE</h1>
-<h3 align="center">SOFTWARE ENGINNER | BACKEND DEVELOPER</h3>
+<h3 align="center">SOFTWARE ENGINNER | FULLSTACK DEVELOPER</h3>
 
 <div align="center"><image src="https://user-images.githubusercontent.com/22597429/160912713-94c93b41-33d6-42b2-a299-d9869ab355a6.png" width="640" height="280" align="center"></image></div>
 
