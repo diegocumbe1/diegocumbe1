@@ -99,15 +99,6 @@ I'm a Full-Stack Developer based in Colombia with **6+ years** building producti
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diegocumbe1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocumbe1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
 ### 📬 Let's talk
 
 I'm open to full-stack opportunities, remote work and freelance projects. Reach out — I usually reply within a day.
